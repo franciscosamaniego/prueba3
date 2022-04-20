@@ -1,0 +1,15 @@
+p {
+  color: red;
+}
+
+table {
+  border: 1px black solid;
+  background-color: blue;
+  margin: 1px 1px 1px 1px;
+  padding: 1px 1px 10px 1px;
+}
+
+td {
+  border: 1px black solid;
+  border-collapse: collapse;
+}
